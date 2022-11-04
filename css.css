@@ -1,0 +1,37 @@
+img {
+    float: left;
+    margin-top: 9%;
+    margin-left: 35%;
+}
+
+.btn{
+    float: left;
+    width: 33%;
+    margin-left: 42%;
+    margin-top: -1%;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+input {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0%;
+    box-sizing: inherit;
+    
+}
+
+
+ :after :before {
+    box-sizing: inherit;
+}
+center {
+    display: block;
+    text-align: -webkit-center;
+}
